@@ -1,0 +1,6 @@
+name=input("my name")
+age=int (input("my age"))
+address=input ("my address")
+print ("name:",name)
+print ("age:",age)
+print ("address:",address)
